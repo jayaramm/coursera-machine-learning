@@ -8,7 +8,7 @@
 %   You should call this function without arguments (submitWeb), to receive
 %   an interactive prompt for submission; optionally you can call it with the partID
 %   if you so wish. Make sure your working directory is set to the directory 
-%   containing the submitWeb.m file and your assignment files.
+%   containing the submitWeb.m file and your assignment files.#
 
 function submitWeb(partId)
   if ~exist('partId', 'var') || isempty(partId)
