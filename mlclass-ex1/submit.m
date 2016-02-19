@@ -1,5 +1,5 @@
 function submit(partId, webSubmit)
-%SUBMIT Submit your code and output to the ml-class servers
+%SUBMIT Submit your code and output to the ml-class servers #
 %   SUBMIT() will connect to the ml-class server and submit your solution
 
   fprintf('==\n== [ml-class] Submitting Solutions | Programming Exercise %s\n==\n', ...
